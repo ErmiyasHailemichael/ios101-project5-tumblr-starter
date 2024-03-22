@@ -15,7 +15,6 @@ class ViewController: UIViewController {
         
         fetchPosts()
     }
-// added a new feature 
 
 
     func fetchPosts() {
